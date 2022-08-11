@@ -1,4 +1,4 @@
-# Desafio POO no IntelliJ da Dio
+# Desafio POO com Java no IntelliJ da Dio
 Abstraindo um Bootcamp usando POO e Java
 
 ## Associando um versionamento de código com o Git de um projeto de Bootcamp:
